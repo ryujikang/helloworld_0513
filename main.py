@@ -1,2 +1,2 @@
 hello world!
-awefhlawefh;ewaifwe;
+print("Hello")
